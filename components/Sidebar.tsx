@@ -94,7 +94,6 @@ const Sidebar = ({ setJobs, setLoading }: SidebarProps) => {
                             currency: value,
                         });
                     }}
-                
                 >
                     <SelectTrigger>
                         <SelectValue placeholder="Choose currency" />
